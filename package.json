@@ -14,7 +14,7 @@
     }
   ],
   "dependencies": {
-    "phantomjs": "1.6"
+    "phantomjs": "0.2.3"
   },
   "bugs": {
     "url": "https://github.com/n1k0/casperjs/issues"
